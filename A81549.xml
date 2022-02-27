@@ -1,0 +1,461 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The displaying of the Life-Guards colours, or A true narrative of the late actings of his Excellencies Life-Guard, since their order for marching up to London to be disbanded: wherein are conteined his Excellencies order for their marching up to London. Their remonstrance in referrence to their solemn engagement. Their proposals in order to disbanding. Their declaration discovering their reasons of seizing upon and securing their standard. With a vindication of divers gentlemen imployed by them. And divers other things giving light to each of them. New published to give satisfaction, aud [sic] to prevent mis-apprehensions concerning the proceedings of the gentlemen of the Life-Guard of his Excellency Sir Thomas Fairfax.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81549</idno>
+            <idno type="STC">Wing D1675</idno>
+            <idno type="STC">Thomason E430_15</idno>
+            <idno type="STC">ESTC R204235</idno>
+            <idno type="EEBO-CITATION">99863890</idno>
+            <idno type="PROQUEST">99863890</idno>
+            <idno type="VID">116106</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81549)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116106)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E430[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The displaying of the Life-Guards colours, or A true narrative of the late actings of his Excellencies Life-Guard, since their order for marching up to London to be disbanded: wherein are conteined his Excellencies order for their marching up to London. Their remonstrance in referrence to their solemn engagement. Their proposals in order to disbanding. Their declaration discovering their reasons of seizing upon and securing their standard. With a vindication of divers gentlemen imployed by them. And divers other things giving light to each of them. New published to give satisfaction, aud [sic] to prevent mis-apprehensions concerning the proceedings of the gentlemen of the Life-Guard of his Excellency Sir Thomas Fairfax.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 3d"; the 8 in imprint date is crossed out and replaced with "7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116106:1" rendition="simple:additions"/>
+            <p>THE DISPLAYING OF THE LIFE-GUARDS COLOURS, OR A true Narrative of the late actings of his Excellencies Life-Guard, ſince their Order for Marching up to <hi>London</hi> to be Diſbanded:</p>
+            <p>
+               <hi>Wherein</hi> Are conteined his Excellencies Order for their March<g ref="char:EOLhyphen"/>ing up to <hi>London.</hi> Their Remonſtrance in referrence to their Solemn Engagement. Their propoſals in order to Diſ<g ref="char:EOLhyphen"/>banding. Their Declaration diſcovering their Reaſons of Seizing upon and Securing their Standard.</p>
+            <p>With a vindication of divers Gentlemen imployed by them. And divers other things giving Light to each of them.</p>
+            <p>Now Publiſhed to give ſatisfaction, and to prevent miſ-apprehenſions con<g ref="char:EOLhyphen"/>cerning the proceedings of the Gentlemen of the Life-Guard of his Excellency Sir <hi>THOMAS FAIRFAX.</hi>
+            </p>
+            <p>Magna eſt veritas &amp; praevalebit</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116106:2"/>
+            <pb facs="tcp:116106:2"/>
+            <head>THE <hi>DISPLAYING</hi> Of the Life-Guards COLOURS.</head>
+            <p>THe Stir-rups, by which many have mounted into the Saddle of Authority and power, and the ſtalking horſes whereby they have deceived well minded people have been ſpecious pretences of their great deſires after the publicke good; their actings only have diſcovered them to be feigned pretenders, and men pretend<g ref="char:EOLhyphen"/>ing publicke good, for their private advantage, which being brought forth, the panges of their travell ceaſe, unleſſe to confirme themſelves as nailes in ſure places.</p>
+            <p>There hath been of late a deſign, (pardon the word) to disband part of the Ar<g ref="char:EOLhyphen"/>my, and that (if you will believe it) for the Kingdomes good; of which company his Excellencies Life-guard muſt have the honour to be Frontiers, for reaſons beſt known to their lovers. Wherefore an Order iſſued out from his Excellency in <hi>January</hi> laſt for their marching from their quarters in <hi>Hertford-ſhire</hi> unto <hi>London,</hi> to be disbanded there. The Copy of which Order heer followes.</p>
+            <floatingText xml:lang="eng" type="order">
+               <body>
+                  <head>A Copy of his Excellencies Order for the Life-Guards comming to London to be disbanded.</head>
+                  <p>WHereas the Parliament hath ordained and appointed the for<g ref="char:EOLhyphen"/>ces under your command, being my Life-guard, to be disband<g ref="char:EOLhyphen"/>ed, and have taken orders that the ſaid Life-guard or forces to be
+<pb n="2" facs="tcp:116106:3"/>disband<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>it <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>cept ſuch as have been entertained ſince the ſixth of <hi>Au<g ref="char:EOLhyphen"/>guſt</hi> laſt (who are to be diſcharged without money) ſhall before diſ<g ref="char:EOLhyphen"/>banding have their accounts ſtated, receive two moneths pay in hand, and Dibenturs for the remainder, and thoſe to be regiſtred, and by ſeverall Ordinances ſecured; thoſe Arreares by good and vi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ble ſecu<g ref="char:EOLhyphen"/>rity to be hereafter paid, or that they ſhall be agreed with all for their whole arreares by a groſſe ſumme in hand; and have authorited Commiſſioners to ſee theſe things done.</p>
+                  <p>Theſe are to require you upon notice from their Commiſſioners intruſted with that ſervice, you with the ſaid forces under your com<g ref="char:EOLhyphen"/>mand do readily comply and give due obedience in all things requi<g ref="char:EOLhyphen"/>ſite for the effectuall and ſpeedy diſpatch of that ſervice, and the diſ<g ref="char:EOLhyphen"/>banding the ſaid forces under your command, according to the ſaid reſolutions and directions of Parliament. The ſaid ſervice being of great concernment to the publicke and the eaſe of the Country. The Parliament and my ſelfe expect all due obſervance heerin: And for ſo doing this ſhall be your Warrant, under my hand and ſeale at <hi>Windſor</hi> the 28. of <hi>January</hi> 1647.</p>
+                  <closer>
+                     <signed>THOMAS FAIRFAX.</signed>
+                  </closer>
+                  <trailer>To Captain <hi>Cromwell</hi> or to Cap. Liev. <hi>Ellis,</hi> or other Offi<g ref="char:EOLhyphen"/>cers in chief preſent with my Life-guard. </trailer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>In obedience to which Order the Troop marched under the conduct of their Of<g ref="char:EOLhyphen"/>ficers to</hi> Barnet <hi>neare</hi> London, <hi>and after into the City. Where ſome of the Gentlemen calling to mind their ſolemne engagement with the Army, not to diſ<g ref="char:EOLhyphen"/>band nor divide, nor to ſuffer themſelves to be disbanded nor divided; and per<g ref="char:EOLhyphen"/>ceiving a neceſſity of ſubmitting to his Excellency, thought by a Remonſtrance ſo to free themſelves from their engagement that they might with ſafety of con<g ref="char:EOLhyphen"/>ſcience ſuffer themſelves to be disbanded. Which Remonſtrance was</hi> February <hi>the</hi> 6. <hi>preſented to his Excellency. The Copy whereof heer inſues.</hi>
+            </p>
+            <floatingText xml:lang="eng" type="remonstrance">
+               <body>
+                  <pb n="3" facs="tcp:116106:3"/>
+                  <head>An humble <hi>Remonſtrance</hi> to his Excellency Sir <hi>Thomas Fairfax,</hi> from the Gentle<g ref="char:EOLhyphen"/>men of his Excellencies <hi>LIFE-GUARD.</hi>
+                  </head>
+                  <opener>
+                     <salute>Moſt noble Generall,</salute>
+                  </opener>
+                  <p>WE <hi>Gentlemen</hi> of your Excellencies Life-guard formerly with your Excellencies concurrance (being moved by the unqueſti<g ref="char:EOLhyphen"/>onable dictates of reaſon, and Parliamentary Declarations, to endea<g ref="char:EOLhyphen"/>vour this Kingdomes and our owne preſervation; againſt the deſpe<g ref="char:EOLhyphen"/>rate deſignes of un-naturall perſons, tending to this Kingdomes and our owne deſtruction)<note n="*" place="margin">Armies Booke Declar. p. <hi>23.26.</hi>
+                     </note> have diſputed the Commands of Parlia<g ref="char:EOLhyphen"/>ment, and entered into a <hi>Solemne Engagement,</hi> not to disband nor di<g ref="char:EOLhyphen"/>vide, nor to ſuffer our ſelves to bee disbanded, nor divided, till full and equall ſatisfaction be given to ours and others juſt deſire, and ſecurity ſufficiently provided for us, and others adhereing to us; in regard of actions done in the late Warre, and things Agitated in our late endeavours of procuring and promoting our Countries happi<g ref="char:EOLhyphen"/>neſſe: in expectation of which ſatisfaction, and ſecurity, wee have a long time travelled with great deſire, and have been hitherto fruſtra<g ref="char:EOLhyphen"/>ted, to our no ſmall griefe, either through weakneſſe, unskilfulneſſe, or unfaithfulneſſe of our <hi>Midwives,</hi> or the prevalent practiſes of our Bloud-thirſtie enemies.</p>
+                  <p>And now underſtanding by your Excellencies Order, the reſoluti<g ref="char:EOLhyphen"/>on both of the Parliament, and your Excellency to disband us; we are enforced, humbly to Remonſtrate to your Excellency, as follow<g ref="char:EOLhyphen"/>eth.</p>
+                  <p>That although we are willing and deſirous, for the Countries eaſe to disband; and in all Lawfull things to be obedient to your Excel<g ref="char:EOLhyphen"/>lencies Command: yet we cannot give our conſent to bee disbanded at preſent, without great diſhonour to your Excellency, and our ſelves, and unfaithfulneſſe to the Kingdome, Parliament and Armie.</p>
+                  <p>Firſt, Becauſe by conſenting to disband, wee ſhall make our ſelves
+<pb n="2" facs="tcp:116106:4"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="3" facs="tcp:116106:4"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="4" facs="tcp:116106:5"/>betrayers of our Truſt, and deſtroyers of our faith in our <hi>Solemne Engagement,</hi> whereby wee Engaged not to disband nor divide, nor to ſuffer our ſelves to be disbanded nor divided, till enjoyment of full and equall ſatisfaction <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd ſecurity, which as yet is not viſible to our <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ight <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> neither are we informed from that Councell,<note n="*" place="margin">A.B.D. pag. <hi>26.</hi>
+                     </note> which wee wi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the whole Army Erected, and in whoſe determination we pro<g ref="char:EOLhyphen"/>mited to <hi>acquieſe,</hi> that there is any ſuch ſatisfaction or ſecurity, and therefore cannot with ſafety of conſcience voluntarily disband, nor willingly <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>er our ſelves to be disbanded.</p>
+                  <p>Alſo becauſe by disbanding, wee ſhall for preſent diſcourage the hearts, and weaken the hands of our dear Fellow-Souldiers: and ſhall (in all probabilitie) make way for their ſudden disbanding by parcells, and ſo render them (as well as our ſelves) uncapable of act<g ref="char:EOLhyphen"/>ing for their owne and the Kingdomes welfare; From which evill, we deſire to keepe our hands cleane; leaſt theirs and the peoples juſt cries aſcend into the eares of the moſt High againſt us.</p>
+                  <p>Laſtly (to mention no more) our preſent disbanding will not eaſe the Country, (unleſſe for preſent) but introduce greater burdens, than they have yet borne (it being the way for preſent to weaken, and in all probability ſuddenly to deſtroy the Army, the Hedge of their ſafety) which we deſire may not, but feare will be the effect of it.</p>
+                  <p>We ſhall not now ſpeake much of the propoſed way, and tearmes of our disbanding, they being not the end of this Remonſtrance: al<g ref="char:EOLhyphen"/>though we conceive the way diſhonourable, wee being appointed the firſt to disband, as if your Excellencies Life-guard were moſt hurt<g ref="char:EOLhyphen"/>full, or leaſt uſefull in the whole Army: and the tearmes both diſho<g ref="char:EOLhyphen"/>nourable and unreaſonable, there being provided at disbanding for thoſe of us, to whom ſomething is promiſed,<note n="*" place="margin">A.B.D. p. <hi>67.</hi>
+                     </note> leſſe than thoſe recei<g ref="char:EOLhyphen"/>ved at disbanding, who deſerted the Army; and for others of us, who were invited by publique Declarations, and admitted by ſpeciall Orders from your Excellency to ride amongſt us, there is nothing provided at disbanding, becauſe not liſted within the Hundred be<g ref="char:EOLhyphen"/>fore the Sixth of <hi>Auguſt;</hi>
+                     <note place="margin">A.B.D. p. <hi>38.</hi>
+                     </note> notwithſtanding promiſes made to them of full and equall ſatisfaction with others, and their dangerous ad<g ref="char:EOLhyphen"/>ventures, and exceſſive expences in joyning with us, to procure the ſame common end, <hi>Liberty and Safety.</hi>
+                  </p>
+                  <p>Now if your Excellency ſhall proceed in your reſolution to diſ<g ref="char:EOLhyphen"/>band
+<pb n="5" facs="tcp:116106:5"/>us, we cannot, we ſhall not re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt; but ſhall leave this as a wit<g ref="char:EOLhyphen"/>neſſe to the whole Kingdome of our willingneſſe to appeare faithfull, and that we are not guilty of procuring thoſe miſeries, that may light on the Country, as conſequences of disbanding.</p>
+                  <p>In conclu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ion, may it pleaſe your Excellency to honour us ſo farre, as to take this paper into your Excellencies ſerious conſideration; and to returne an anſwer, which we humbly expect. Now the God of wiſedome in a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l things direct your Excellency, that you may ſtill continue a glorious Inſtrument of much good to this poore King<g ref="char:EOLhyphen"/>dome, which is the prayer of,</p>
+                  <closer>
+                     <signed>
+                        <hi>Your Excellencies moſt humble Servants readie to live and die with your Excellency,</hi> in procu<g ref="char:EOLhyphen"/>ring, and promoting, Common Liberty, and Safety.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>After the Generall had received this Remonſtrance and taken it into conſidera<g ref="char:EOLhyphen"/>tion, his Excellency returned this anſwer to M. <hi>John Knowles</hi> (who was ap<g ref="char:EOLhyphen"/>pointed to preſent if) <hi>That there were two things he obſerved in it:</hi>
+            </p>
+            <p>
+               <hi>Firſt, that the Gentlemen did conceive, that they ſhould by a wil<g ref="char:EOLhyphen"/>ling disbanding breake their engagement with the Army.</hi>
+            </p>
+            <p>
+               <hi>Secondly, that they thought it diſhonourable to be disbanded firſt.</hi> To the firſt, his Excellency replied (as M. <hi>Knowles</hi> related) <hi>That he con<g ref="char:EOLhyphen"/>ceived that the end of their engagement would not be broken by disbanding, ſeeing ſatisfaction and ſecurity were provided, and diſ<g ref="char:EOLhyphen"/>banding would be an eaſe to the Country.</hi>
+            </p>
+            <p>To which he anſwered to his Excellency, That the Gentlemen did conceive, that by a willing disbanding they ſhould deſtroy the engagement, full ſatisfaction and ſecurity being not viſible to them, and they having received no information there<g ref="char:EOLhyphen"/>of from that Councell, which was conſtituted by the Army to determine what is, and to declare when there is full ſatisfaction and ſecurity; in whoſe determinati<g ref="char:EOLhyphen"/>ons and declarations only they were bound to <hi>acquieſſe.</hi> And further he ſaid, That the end of the Gentlemens remonſtrating was, ſo to free themſelves from the engagement, That they might without hurt to their conſciences readily diſ<g ref="char:EOLhyphen"/>band at the command of his Excellency. Other things he reported, the mention<g ref="char:EOLhyphen"/>ing whereof may heer well be omitted.</p>
+            <p>The Gentlemen having by this Remonſtrance both freed themſelves from their
+<pb n="6" facs="tcp:116106:6"/>en<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>agement, and received more certain knowledge of his Excellencies reſolution to disband them, they began to conſider of honeſt and juſt tearmes of disbanding, which they repreſented to the Generall in their propoſals, wherein not being was deſired by them but what his Exce<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lency in his Order had promiſed to them; The truth whereof the Copy heer annex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d will manifeſt and clearly diſcover.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To his Excellency Sir <hi>Thomas Fairfax</hi> Generall.</head>
+                  <p>THe humble propoſals of your Excellencies Life-guard. How great our diligence hath been in obedience to your Excellencies commands, our deportment hitherto and hereafter (we hope) hath and ſhall ſufficiently ſpeake. And that we do not tolerate any unruly ſpirit amongſt us, to the diſturbing of the Army or Kingdome. Wee ſhall likewiſe declare (and though we cannot but judge) that our preſent disbanding is a detriment to our honour and other things which we may juſtly plead. Yet we do reſolve to obey when we ſhall receive a command thereunto, not doubting but all thoſe things ſhall be made good unto us, which were agreed upon by your excel<g ref="char:EOLhyphen"/>lency with your Generall Councell of Warre and the Commiſſioners of Parliament at <hi>Windſor,</hi> the denyall of which will be an impediment to our preſent disbanding, for the removing of which hinderances; We humbly offer theſe things following to your Excellencies moſt ſerious conſideration.</p>
+                  <p>That we may have our Accompts as well veterane as new audited and Regiſtred by the Commitee of the Army (or by ſuch as they ſhall appoint) and viſible ſecurity given to us according to the Agree<g ref="char:EOLunhyphen"/>ment.</p>
+                  <p>That we may be continued in pay and Quarters aſſigned us, untill our Debenturs are perfected, and ſuch viſible ſecurity given.</p>
+                  <p>That we (or ſuch of us as ſhall deſire it) may be compounded with and paid off in groſſe, and Truſtees appointed for that purpoſe.</p>
+                  <p>Theſe things we humbly conceive are conſonant unto the above mentioned Agreement, and of great concernment to our ſelves and
+<pb n="7" facs="tcp:116106:6"/>the whole Souldiery, how unſpeakable our trouble and pre<g ref="char:EOLhyphen"/>judice will be to wait for them after we ſhal be Diſbanded. The dreadfull former examples of others, and our preſent expenſive abode in the Citie, compelleth us humbly to pre<g ref="char:EOLhyphen"/>ſent to your Excellencies moſt ſad contemplation, And wee hope it will not reſent ill with your Excellency, if wee ſhall refuſe willingly to Diſband untill they are performed: After which we ſhall readily ſhew our obedience, when we ſhall receive a Command thereunto from your Excellen<g ref="char:EOLhyphen"/>cie.</p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Theſe juſt Propoſalls humbly preſented to his Excellency, procured for them only a referring (for their ſatisfaction) to the Committee of Lords and Com<g ref="char:EOLhyphen"/>mons for the Army, to whom t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Gentlemen made their addreſſe, and received an anſwer which tended b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th to their diſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nour and diſadvantage. The Commit<g ref="char:EOLhyphen"/>tee telling them that they were Disbanded long ſince, and that they muſt waite upon their owne charges for their Debenturs.</hi>
+            </p>
+            <p>
+               <hi>The Gentlemen conſidering how diſhonourable it was to them to be Disbanded li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e a Caſhiered and ill deſerving Company, not received ſo much as thankes for their Service, and knowing how chargeable 'tis to wait on Committees, and believing that if they ſhould ſubmit to this hard uſage, others of the Souldiery to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Disbanded (who were leſſe able to beare it) would meet with as hard (if not harder) dealing at their Disbanding, reſolved once more to ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e their addreſſe to his Excellency, deſiring to know of his Excellency what they ſhould do? Who told them that he wondred they did not diſperſe themſelves. They further deſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed to know what they ſhould doe with their Colours? His Excellency told them, they might bring them to him, or diſpoſe of them as they would.</hi>
+            </p>
+            <p>
+               <hi>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w the Gentlemen ill reſenting their friends carriages towards them, they deſerving beetter at their hands, were ſo provoked that divers of them reſolved to ſeize on the St<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndard, which accordingly they did, and marched with honeſt intentions out of the City unto</hi> Knights-bridge, <hi>where they ſtayed till they re<g ref="char:EOLhyphen"/>ceived an Order from his Excellency to appeare before him and his Councell at</hi> White-hal, Febr. 24. <hi>where they in obedience to his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xcellencies Order, wait<g ref="char:EOLhyphen"/>ed to know his Excellencies pleaſure with them, and preſented to his Excellency and his Councell a Declaration, whereby they Remonſtrated their Reaſon of their action in ſeizing upon, and ſecuring their Colours. A Copy wherof here followeth.</hi>
+            </p>
+            <floatingText xml:lang="eng" type="declaration">
+               <body>
+                  <pb n="8" facs="tcp:116106:7"/>
+                  <head>The Declaration.</head>
+                  <p>WE the Gentlemen of his Excellencies Life-guard being brought to <hi>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ndon</hi> by an Order under his Excellencies hand and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eal for the receiving of theſe ſeveral Particulars, therein mention<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d before diſbanding, That two Moneths Pay be received, Accounts in general audited and regiſtred, viſible Security given, thoſe that wil compound for their Arreares in groſſe, the Act of Indemnity confirmed, and all theſe things <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ed before Diſbanding.</p>
+                  <p>We there<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ore the aforeſaid Gentlemen, do declare to the Parliament, General, Army, and the whole Kingdom, That we have indeed received two Moneths Pay, and a Promiſe that the Debentures of this Army ſhould be perfected, and brought within the Security above mentioned; but we deſire the World to take notice, that our entertainment untill diſ<g ref="char:EOLhyphen"/>banding, the auditing and ſecuring of our old Accounts, and the exact fulfilling of the general Warrant, are denied; upon which, for the Generals and our own honour, and the clearing of the juſt right of the whole Souldiery, we have been en<g ref="char:EOLhyphen"/>forced to ſecure our Standard in our own hands, with no other intent, ſiniſter end, or deſire of ſtanding (which we all in general proteſt againſt) but onely that when the Generals honour in fulfilling his Warrant ſhall be vindicated, our per<g ref="char:EOLhyphen"/>ſons and Arreares ſecured, and the Army ſhall acquit us from all our former Engagements to and with them; then we ſay, theſe things being accompliſhed, we ſhall (as men of honour and honeſty) in the open field with our Officers heading of us which will ſpeak a Diſbanding, not a caſhiering, either deliver up our Colours to the General, or otherwiſe, ho<g ref="char:EOLhyphen"/>nourably diſpoſe of them, as becomes Souldiers. Nor can we thinke it conſiſtant with our Honours to diſſolve privately, and without punctual order in a City, when we have alwayes
+<pb n="9" facs="tcp:116106:7"/>ſtood by our Colours in the field, where we firſt received them, and ſhall again leave them.</p>
+                  <p>We alſo do believe that the whole World will deem we act but the parts of men of honour and honeſty, if we ſhall not willingly ſuffer the juſt Rights and honour of our Ge<g ref="char:EOLhyphen"/>neral, our ſelves, and all the Souldiery to be deteined from us without making it manifeſt, that we are ſenſible of ſo great an injury offered to them and us, and of the prejudice we ſhall unavoidably intaile upon all that ſhall diſband after us.</p>
+                  <p>Theſe things following are the ſumme of our deſires.</p>
+                  <p>That the ſumme of our Accounts both old and new be audited and ſecured, thoſe (that pleaſe) compounded with in groſſe, (that our Pay go on with the Army, untill the day when by punctual order from the General we ſhall be in the field disbanded, and at that time each mans Debentur together with his particular Diſcharge may he delivered to him, that the generals Order which ſayes, [Theſe things above mentioned ought to be performed before diſ<g ref="char:EOLhyphen"/>banding] may be cleared, fulfilled, his reputation vindicated, for putting in that word [before disbanded] without which the in<g ref="char:EOLhyphen"/>terest of the whole Souldiery will be injured, theirs and our Ex<g ref="char:EOLhyphen"/>pectations frustrated, both they and we inforced to that tedious and expenſive attendance upon Committees which the former ſad Experience of others hath made us ſeek with all poſſible meanes to avoid.</p>
+                  <p>We ſhall not in the least meaſure aggravate the actings of that Counſell (hoping that they hereafter may learne to do better) but ſhall yield a briefe and true Relation of general Paſſages, to give light to thoſe that deſire ſatisfaction concerning the Life-guards
+<pb n="10" facs="tcp:116106:8"/>late Tranſactings. The Gentlemen being convened at <hi>White-Hall</hi> (the place where the Counſel ſate) three of them, to wit, M. <hi>Clarke,</hi> M. <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iggs,</hi> M. <hi>Thirkill,</hi> were one by one called into the Counſel, where their Accuſations were Interrogatories, and their perſons for real or pretended Crimes made Priſoners, two whereof (M. <hi>Clarke,</hi> M. <hi>Thirkill</hi>) under-went a cloſe impriſonment. And all the Gentlemen of the Life-guard had till nine a clocke at night the Kings Palace for their Priſon, they being denied egreſſe t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll that time to go about their neceſſary occaſions. The fore-men<g ref="char:EOLhyphen"/>tione<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Declaration was ſent into the Counſel by the hands of four G<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>lemen intrusted for that purpoſe. The Counſel would ſcarce vouchſafe to the L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fe-guard ſo much honour as to reade the pre<g ref="char:EOLhyphen"/>ſented Paper. The Gentlemen ſent in were courſely handled, and c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſed to test<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fie under their hands that they came in the name of the Troop; and ſo were diſmiſſed (as Priſoners upon Perroll) with the whole Troop, and ordered to appear on the morrow by nine of the clocke. Who being come together, ſent into the Counſel a Vindi<g ref="char:EOLhyphen"/>cation of theſe Gentlemen who were imployed by the greatest part of the Gentlemen and ſuſpected by the Counſel as Pretended Re<g ref="char:EOLhyphen"/>preſentatives. The Copy of which Vindication here followes.</p>
+                  <p>
+                     <hi>We the Gentlemen of his Excellencies Life-guard, whoſe names are here under-written, did deſire and appoint (and do own it as our own act) M.</hi> Clarke, <hi>Captain</hi> Bigg<g ref="char:punc">▪</g> 
+                     <hi>M.</hi> Burleigh, <hi>M.</hi> Lee, <hi>M.</hi> Bouchir <hi>and Maj.</hi> Cain, <hi>in our Names to deliver unto his Excellency and the Counſel of Warre that our Declarati<g ref="char:EOLhyphen"/>on and thoſe our ſummary deſires which they did according<g ref="char:EOLhyphen"/>ly the laſt night preſent as afore-mentioned. In witneſſe whereof we have hereunto ſubſcribed our hands this five and twentieth of February,</hi> Anno Domini <hi>1647.</hi>
+                  </p>
+                  <p>
+                     <hi>We further humbly deſire this honourable Counſel of Warre to take notice, that in point of takng our Colours into our own cuſtody, or the concealing of them. We do own as
+<pb n="11" facs="tcp:116106:8"/>an act which we all approve of, conſent to, and hold our ſelves equally to be engaged in the owning of that act as the act of the whole Troop. And expect that their ſufferings who are at preſent confined may not exceed our own.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>This is ſubſcribed by the Gentlemen of his Excel. Life-guard.</hi>
+            </p>
+            <p>This Vindication was ſubſcribed by many who had no han<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in ſeaſing upon and ſecuring the Standard, to which Subſcription they were induced for the good of thoſe Gentlemen (Men of de<g ref="char:EOLhyphen"/>ſert) who were in great danger for it, if the Councel were in ear<g ref="char:EOLhyphen"/>nest, and acted not meerly from policy, to affright the Gentlemen, and keep in aw the whole Souldiery, that they might not for fu<g ref="char:EOLhyphen"/>ture dare appeare oppoſers of their arbitrary Power. The Councel having knowledge to what place the Standard was conveyed, ſent <hi>(Febr. 25.)</hi> a Troop of Horſe to the <hi>Lambe</hi> on <hi>Snow-hill,</hi> where they found it and conducted it, to the Generals Quarters in <hi>Queenes-ſtreet,</hi> where it remaines. The Souldiers who were im<g ref="char:EOLhyphen"/>ployed in that Service hath profeſſed ſince their ignorance of that undertaking. After the Colours were if the Generals poſſeſſion, the Councel or ſome of them proceeded to the condemnation of M. <hi>Clarke,</hi> who was ſentenced to be ſhot to death for a Crime (ſo called) exceeding hainous, in the Coun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>els aggravating circum<g ref="char:EOLhyphen"/>ſtances of it, were naturally united to it. This night after the Councel roſe, there was a great distemper in Colonel <hi>Riches</hi> R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gi<g ref="char:EOLhyphen"/>ment, when they heard of the Sentence that paſſed against M. <hi>Clarke,</hi> who came the ſame night to <hi>White-hall,</hi> (whe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Pri<g ref="char:EOLhyphen"/>ſoner was) were permitted to ſend three in to ſee the condemned Gentleman, and had a promiſe from the Lieutenant Colonel of tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Gariſon, that the Priſoner in the morning ſhould be forth-comming, which Souldiers profeſſed that they were moved to that action from this conſiderat<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t M. <hi>Clarke</hi> ſtood not onely for his own and the Life-<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uards, but al<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>e Rights of the whole Souldiery: and further they profeſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that th<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ld not ſuffer one hair of his head to periſh. The Gentlemen of his Excell Life-guard, after the Sentence of Death given out met together to conſu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> what was to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, the end of their Debate was not to act in, nor incourage <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers to any tumultuous
+<pb n="12" facs="tcp:116106:9"/>wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, but to addreſſe themſelves by way of Petition to his Excellency, that the Sent<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ht be recalled, and the condemned Gentleman with themſelves ſe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e notw<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thstandin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eir former actings. According to which <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>te<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>nati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vers Gentlemen wer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pointed to draw up a Petition for the ends af <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>-m<gap reason="illegible" resp="#KEYERS" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>ed<g ref="char:punc">▪</g> The Copy of t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Petition drawn up by the Gentlemen intrusted for that purpoſe here enſues.</p>
+            <floatingText xml:lang="eng" type="petition">
+               <body>
+                  <head>To his Excellency Sir <hi>Thomas Fairfax,</hi> General: The humble Petition of your Excellencies Life-guard,</head>
+                  <opener>Sheweth,</opener>
+                  <p>THat whereas it hath been the late unhappineſſe of your Petitioners for to do or ſeem to countenance the doing of ſome things which have been ill reſented by your Excell. and your honorable Councel of War<g ref="char:punc">▪</g> as courſes tending to mutiny or receding from your Excellencies command, the thoughts of which we deſire to abhorre, and our denial of the deſires of many tending thereunto, we hope, wil ſpeak on our behalf, and that M. <hi>Will. Clarke</hi> having taken ſome courſe for which your Excellency with your honourable Councel of Warre have con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eived him worthy of death, and accordingly have adjudged him to die, the innocency of whoſe intentions we cannot but have high thoughts of, though his behaviour or our own, ſo farre as capable of a bad conſtruction, we ſhall not deſire to juſtifie, being rather willing to condemne our ſelves for the Peace of the Kingdom, than to diſturbe it, by juſtifying of our ſelves.</p>
+                  <p>We therefore humbly pray, that your Excellency will be pleaſed to take the dying condition of the ſaid M. <hi>William
+<pb n="13" facs="tcp:116106:9"/>Clarke</hi> into your tender conſideration, and that you will be pleaſed not to take an advantage from his fault to take away his life, but graciouſly to pardon the ſame, or what ever we or any of us have done ſo farre as its unjuſt and ſo offenſive, we humbly deſire your Excellency to paſſe by and ſurſeaſe any further proceedings, whereby your Excellencies mercy will not onely give a new life to the Gentleman petitioned for, but alſo make the lives of your Petitioners much more com<g ref="char:EOLhyphen"/>fortable, and oblige them humbly to pray, <hi>&amp;c.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Some at the Councel being privately made acquainted with this Petition, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll reſented it, notwithstanding e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch line is with moderation and humility ſuffici<g ref="char:EOLhyphen"/>ently adorned; and diſcouraged them from preſenting it, telling them that it would but increaſe the fire kindled in the breasts of divers in the Councel against them. <g ref="char:V">Ʋ</g>pon which was a demurre amongst the Gentlemen in referrence to the Petition; but in the interim a Colonel one of the Cou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cel profered his ſervice to the Gen<g ref="char:EOLhyphen"/>tlemen (although their adverſary) to frame a Petition for them; which accord<g ref="char:EOLhyphen"/>ingly he did; and it was preſented to the General by two Gentlemen without Subſcriptions, the Councel would not accept it, unleſſe the Gentlemen would ſub<g ref="char:EOLhyphen"/>ſcribe it, which if denied, the Gentleman condemned was threatned with an im<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>diate Execution of his Sentence. Part of the Troop were brought up and kept in a chamber, where ſome were (not from the dictates of their reaſon, but) through the greatneſſe of their affection to the condem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed Gentleman, inforced to ſub<g ref="char:EOLhyphen"/>ſcrib<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that Peti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion, whilest others of them protested against it. This Petition being preſented, the ſubſcribing Gentlemen were called into the Councel, and his Excellency pard<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ned the condemned Gentlemen, re-admitted the Troop into his favour, and promiſed them ſatisfaction to their just deſires.</hi>
+            </p>
+            <p>
+               <hi>Now having ended this true Diſcovery. Had there nothing here p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſented it ſelfe to the view of the world by way of excuſe in their low deſcention by way of Petition, yet if their former Papers which were afore-mentioned ſhould be com<g ref="char:EOLhyphen"/>pared with that Petition (if ever it ſhould preſent it ſelfe unto the view of the world) it would be accounted but illegitimate: for who can thinke that ſo many Gentlemen of known valour and integrity against their profeſſed Enemies ſhould ever be brought to ſo low a condeſcention by their pretended friends? but in ſome caſes a pretended friend may do more miſchiefe than an open enemy,</hi> Lupus in veſte agnina maxime nocet.</p>
+            <p>
+               <hi>Let this be conſidered which before was omitted, this Gentleman was con<g ref="char:EOLhyphen"/>demned for being pretendedly guilty under two Articles. First, for Mutiny, in
+<pb n="14" facs="tcp:116106:10"/>taking the Colours, who was therein but equally concerned with the rest, and ſo it had been but partiality to condemne one for all, when all were equally concerned in the ſame act.</hi> Actor enim &amp; acceſſarius a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>que peccant; itaque candem poenam mercuntur. <hi>Second, Was <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s diſobedience to ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>riour Officers? And what was that his not anſwering to Interro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atories, which they were pleaſed to put to him? This offence was obedience to the Law, which hath</hi> Nemo ſeipſum prodet, <hi>for its Maxime.</hi>
+            </p>
+            <p>
+               <hi>Let no Souldier or Commoner from the event of theſe mens actings be deter<g ref="char:EOLhyphen"/>red from endeavouring their Countries freedom, ſeeing event doth not alwayes teach trut<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and is alwayes a teacher of fools;</hi> Verum eſt, eventum ſtulto<g ref="char:EOLhyphen"/>rum eſſe magiſtrum.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
